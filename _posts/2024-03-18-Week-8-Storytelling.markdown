@@ -22,7 +22,7 @@ Despite privacy concerns, 68 CCTV cameras were installed in the city since 2005.
 *Figure 2: Heatmap showing Vehicle Theft difference from 2005 to 2006 by Police District in San Francisco.*
 
 
-<iframe src="/assets/images/MultiLineNorm.html" width="660" height="390"></iframe>
+<iframe src="/assets/images/MultiLineNorm.html" width="630" height="405"></iframe>
 
 
 
