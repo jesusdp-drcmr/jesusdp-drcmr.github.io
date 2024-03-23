@@ -9,7 +9,7 @@ San Francisco, renowned for its Golden Gate Bridge, faced high crime rates in th
 
 Despite privacy concerns, 68 CCTV cameras were installed in the city since 2005. Studies, though varied, consistently show that CCTV impacts non-violent crimes. Based on this information, it is reasonable to suggest that the installation of CCTV in San Francisco contributed to decreasing vehicle thefts. This hypothesis is suggested by the time series chart which reflects a significant difference in the number of reported vehicle thefts after 2005.
 
-![timeSeries](assets/images/TimeSeries.png)
+![timeSeries](https://github.com/jesusdp-drcmr/jesusdp-drcmr.github.io/blob/93c1af4523a0672763f76565e2976b7425c0e3a0/assets/images/TimeSeries.png)
 *Caption*
 
 This heatmap shows the difference in vehicle thefts in each district in san francisco from the year 2005 to 2006. The more red the area the less vehicles were stolen in the district relative the 2005. Interestingly this shows perhaps the area of most focus, and where the police set up the most cameras to prevent vehicle theft. This also highly correlates with the position of the camera as can be seen on this link https://www.google.com/maps/d/viewer?mid=1gn9aYH09MHPQk7YD9EbOwg_sGJEFtefN&hl=en_US&ll=37.75638790588526%2C-122.3895447&z=13 (Select community camera)
