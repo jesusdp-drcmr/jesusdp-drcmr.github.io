@@ -1,21 +1,26 @@
 ---
-layout: post
-title:  "The problem of vehicle theft in San Franscico"
+layout: page
+title:  "San Franscio, how do they address the problem with vehicle thefts?"
 date:   2024-03-18 11:46:00 +0100
 categories: Data, Visualization, Storytelling
 ---
 
-San Francisco, famously known for its iconic Golden Gate Bridge, diverse culture, and vibrant neighborhoods, also grapples with the challenge of crime, specially auto theft. To uncover trends over the years,  we delve into the San Francisco Police Dataset spanning from 2003 to 2017. By analyzing this rich dataset, we aim to shed light on how crime patterns have evolved in the city over the past decade and a half. The dataset provides a comprenhensive record of reported incidents within the city, including information such as the type of crime, geographical location, date and time. 
+San Francisco, renowned for its Golden Gate Bridge, faced high crime rates in the 2000s, particularly auto theft. We analyzed the San Francisco Police Dataset (2003–2017) which contains records of reported incidents within the city, such as the crime type, location, date, and time. By analyzing this dataset, we aimed to find potential correlations in the evolution of vehicle theft data and the political and social situation of San Francisco.
 
-San Francisco. The city has installed 68 CCTV recording cameras since 2005. The San
-Francisco Chronicle reported that, as of March 2008, the city had spent $900,000 and
-had budgeted an additional $200,000 for 25 more cameras to target both violent gang
-activity and property crime. An study also found that San Francisco’s cameras had “no effect” on violent
-crimes.
+Despite privacy concerns, 68 CCTV cameras were installed in the city since 2005. Studies, though varied, consistently show that CCTV impacts non-violent crimes. Based on this information, it is reasonable to suggest that the installation of CCTV in San Francisco contributed to decreasing vehicle thefts. This hypothesis is suggested by the time series chart which reflects a significant difference in the number of reported vehicle thefts after 2005.
 
-![Example Image](C:\Users\jdiaz\jesusdp-drcmr.github.io\assets\images\descarga.png)
+![timeSeries](C:\Users\jdiaz\jesusdp-drcmr.github.io\assets\images\TimeSeries.png)
+*Caption*
 
-Vehicle Thefts are not violent crimes, so the presence of cameras can discourage people from comitting the crime and therefore reducing the crimes. 
+This heatmap shows the difference in vehicle thefts in each district in san francisco from the year 2005 to 2006. The more red the area the less vehicles were stolen in the district relative the 2005. Interestingly this shows perhaps the area of most focus, and where the police set up the most cameras to prevent vehicle theft. This also highly correlates with the position of the camera as can be seen on this link https://www.google.com/maps/d/viewer?mid=1gn9aYH09MHPQk7YD9EbOwg_sGJEFtefN&hl=en_US&ll=37.75638790588526%2C-122.3895447&z=13 (Select community camera)
+
+![heatmap](C:\Users\jdiaz\jesusdp-drcmr.github.io\assets\images\heatmap.png)
+*Caption*
+
+Figure 3 depicts a multi-line graph illustrating the normalized incidence of vehicle thefts across various districts in San Francisco from 2003 to 2017. Upon analyzing the distribution of vehicle thefts over the years, it becomes evident that the Tenderloin district consistently emerges as the safest area with regards to vehicle theft. This observation may seem unexpected, considering the reputation of the Tenderloin district for its prevalence of crimes. However, its reputation stems from violent crimes. Conversely, Ingleside district generally exhibits the highest ratio of vehicle thefts, positioning it as one of the least secure areas in this regard.
+
+<iframe src="C:\Users\jdiaz\jesusdp-drcmr.github.io\assets\images\MultiLineNorm.html" width="800" height="600"></iframe>
+
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
