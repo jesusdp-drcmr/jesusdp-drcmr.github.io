@@ -23,11 +23,14 @@ Figure 2 shows the difference in vehicle thefts in each district in San Francisc
 
 ![heatmap](/assets/images/heatmap_v2.png)  
 *Figure 2: Heatmap showing Vehicle Theft difference from 2005 to 2006 by Police District in San Francisco.*
-<iframe src="/assets/images/MultiLineNorm.html" width="630" height="405"></iframe>
 
 &nbsp;
 
-Figure 3 depicts a multi-line interactive graph illustrating the normalized incidence of vehicle thefts across various districts in San Francisco from 2003 to 2017. Upon analysis of the vehicle theft distribution over the years, the graph indicates that CCTV cameras were installed managed to reduce the number of vehicle thefts in a district-by-district basis.
+<iframe src="/assets/images/MultiLineNorm.html" width="630" height="405"></iframe>
+*Figure 3: Multi-line interactive graph illustrating the normalized incidence of vehicle thefts across various districts in San Francisco from 2003 to 2017*
+
+&nbsp;
+
 
 According to Figure 3, the Tenderloin district consistently emerges as the safest area with regards to vehicle theft, which as discussed before, showed the biggest reduction in reported auto thefts after the CCTV installation in 2005. This observation may seem unexpected, considering the reputation of the Tenderloin district among others in the center such as Mission, for its prevalence of crimes, which may be mainly by violent crimes. On the other hand, the Ingleside district generally exhibits the highest ratio of vehicle thefts, positioning it as one of the least secure areas in this regard, probably due to its proximity to access points to major highways. However, it is important to point out that, following a rise in vehicle thefts starting in 2011, Ingleside reached its peak in 2014 before declining gradually.
 
