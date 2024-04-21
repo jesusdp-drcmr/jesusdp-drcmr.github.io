@@ -40,8 +40,10 @@ As it can be unfolded, Greenland consistently stands out with the highest depres
 Are there any differences regarding the distribution of DD prevalence across Greenlandic population? A study carried out in 2014 by the World Health Organization highlighted gender-specific trends within Greenland. This survey revealed that girls in Greenland reported elevated levels of depression, nervousness, and sleep difficulties compared to boys. 
 
 &nbsp;
+
 ![malevsfemale](/assets/images/malevsfemale.png)  
 *Figure 3: Gender-Specific Depression Prevalence in Greenland (1990-2017).*
+
 &nbsp;
 
 As depicted in Figure 3, the prevalence of depression among females has consistently been approximately twice as high as among males. However, recent data indicates a promising trend of decreasing the prevalence, suggesting potential improvements in interventions targeting the female population in Greenland.
@@ -49,16 +51,21 @@ As depicted in Figure 3, the prevalence of depression among females has consiste
 Another significant finding from the 2014 survey underscores the heightened vulnerability of younger individuals in Greenland. They were identified as the most susceptible group, facing increased risks associated with depression, substance abuse, and suicidal tendencies. Remarkably, this pattern persists in the data from subsequent years, as evidenced by Figure 4, which delineates the prevalence of depression across different age groups in Greenland for the year 2017. As depicted, the highest prevalence rate continues to be associated with the population aged between 20-24 years, reaffirming the enduring nature of this concerning trend.
 
 &nbsp;
+
 ![agegroups](/assets/images/agegreenland.png)  
 *Figure 4: Depression Prevalence Across Different Age Groups in Greenland (2017).*
+
 &nbsp;
+
 Could high rates of substance consumption contribute to elevated depression and suicide rates in Greenland? A prevailing hypothesis suggests that high rates of substance consumption might indeed play a role. With this hypothesis as our guide, we aim to uncover trends in alcohol and drug consumption in Greenland that could potentially correlate alcohol and drug disorders with the prevalence of depression and suicide rates.
 
 Figure 5 reveals striking trends in the prevalence of alcohol and drug disorders in Greenland compared to the average rates observed in various European countries over the last decades. Given these observed patterns, it becomes increasingly plausible to suggest a potential correlation between these elevated rates of alcohol and drug disorders and the rates of depression and suicide in Greenland.
 
 &nbsp;
+
 ![drugalc](/assets/images/drugalc.png)  
-*Figure 5: Prevalence of Alcohol and Drug Disorders in Greenland Compared to European Averages (1990-2017)*
+*Figure 5: Prevalence of Alcohol and Drug Disorders in Greenland Compared to European Averages (1990-2017).*
+
 &nbsp;
 
 **References**
