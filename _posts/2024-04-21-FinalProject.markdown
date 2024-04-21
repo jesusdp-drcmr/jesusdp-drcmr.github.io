@@ -11,8 +11,6 @@ The prevalence of common mental disorders, particularly Depressive Disorder (DD)
 
 In particular, Greenland has undergone significant social and political transformations since World War II. This has caused profound changes within the Greenland society, impacting the population’s mental health, with DD emerging as a prominent concern.
 
-requiring comprenhensive and targeted research to improve health interventions.
-
 While this condition treatable, accurately estimating its prevalence and understanding its trends and potential associations with other factors remains challenging. To address this, it is crucial to conduct targeted research by collect reliable data and analyze it effectively.
 
 What factors might contribute to the prevalence of depression in the case of Greenland? How does it distribute across the population? Are there any discernible trends or patterns that can shed light on the unique challenges and dynamics of DD prevalence in Greenland? By using data visualization techniques, we seek to explore the DD prevalence in Greenland, compare with other countries, identifying trends, patterns, and potential contributing factors.
