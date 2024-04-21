@@ -33,6 +33,14 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 
+# Default layout for pages
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
