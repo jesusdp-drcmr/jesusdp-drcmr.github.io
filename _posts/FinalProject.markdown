@@ -1,11 +1,10 @@
 ---
 layout: page
-title: "Mental Health"
+title: "Exploring Mental Health"
 date: 2024-04-21 16:40:00 +0100
 categories: 
   - Data
-  - Visualization
-  - Storytelling
+  - Mental Health
 ---
 
 San Francisco, renowned for its Golden Gate Bridge, faced high crime rates in the 2000s, particularly auto theft. We analyzed the San Francisco Police Dataset (2003–2017), which contains records of reported incidents within the city, such as the crime type, location, date, and time. By analyzing this dataset, we aimed to find potential correlations in the evolution of vehicle theft data and the political and social situation of San Francisco.
