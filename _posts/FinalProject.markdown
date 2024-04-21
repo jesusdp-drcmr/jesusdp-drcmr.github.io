@@ -7,45 +7,63 @@ categories:
   - Mental Health
 ---
 
-San Francisco, renowned for its Golden Gate Bridge, faced high crime rates in the 2000s, particularly auto theft. We analyzed the San Francisco Police Dataset (2003–2017), which contains records of reported incidents within the city, such as the crime type, location, date, and time. By analyzing this dataset, we aimed to find potential correlations in the evolution of vehicle theft data and the political and social situation of San Francisco.
+The prevalence of common mental disorders is increasing among the populations of Western developed nations (1). Notably, Depressive Disorder (DD) stands out as one of the most significant mental health challenges. 
 
-Despite privacy concerns, 68 CCTV cameras were installed in the city since 2005 [1]. However, based on the data, we suggest that the installation of CCTV actually had an impact on the number of vehicle thefts, reducing them. Our reasoning is that although the system doesn't actively contribute to reducing crime, it may have an impact on non-violent crimes. This hypothesis is suggested by Figure 1, which reflects a significant difference in the number of reported vehicle thefts after 2005 when CCTV was initially installed in San Francisco. The number of reported vehicle thefts continued to decrease until 2010, subsequently increasing but not matching the levels observed before the introduction of CCTV.
+While mental illnesses are treatable, accurately estimating their prevalence and understanding their potential associations with other factors remains challenging. To address this, it is crucial to collect reliable data and analyze it effectively to comprehend these conditions—examining how, when, and why they occur, as well as the number of people affected by them.
 
+With this project, we aim to study a series of datasets encompassing the prevalence of various mental health disorders globally and across different years, with a special focus on DD, and other related information. More specifically, we seek to study the relationship between DD with other factors, such as Alcohol or Drug disorders, or Suicide Rates, both globally and in greater detail within those countries where DD is a significant problem.
 
-Figure 2 illustrates the variation in vehicle thefts across different districts in San Francisco from 2005 to 2006. The intensity of red shading corresponds to the relative decrease in stolen vehicles within each district compared to 2005. Overall, there was a significant disparity in vehicle theft, ranging from -64% to -56% compared to the previous year. Interestingly, this pattern aligns with the areas of highest police focus, where additional surveillance cameras were strategically placed to prevent vehicle theft in the Tenderloin, Park, and Taraval districts. Notably, these camera positions correlate closely with the observed changes in theft rates [2].
+In order to gain a better understanding of the global situation of depression prevalence, we’ve developed an interactive bar chart plot that serves as a dynamic tool to explore and visualize the prevalence of depression annually from 1990 to 2017. Figure 1 allows users to select a specific year and highlights countries with both the highest and lowest depression prevalence. Notably, Greenland consistently stands out with the highest prevalence.  
 
-
-![timeSeries](/assets/images/TimeSeries_v2.png)  
-*Figure 1: Line graph representing the number of vehicle thefts in San Francisco, before and after the installation of the CCTV system.*
 
 &nbsp;
 
-![heatmap](/assets/images/heatmap_v2.png)  
-*Figure 2: Heatmap showing Vehicle Theft difference from 2005 to 2006 by Police District in San Francisco.*
-
-&nbsp;
-
-<iframe src="/assets/images/MultiLineNorm.html" width="630" height="405"></iframe>
-*Figure 3: Multi-line interactive graph illustrating the normalized incidence of vehicle thefts across various districts in San Francisco from 2003 to 2017*
+<iframe src="/assets/images/interactive_plot_1990_2017.html" width="630" height="405"></iframe>
+*Figure 1: Depression Prevalence. *
 
 &nbsp;
 
 
-According to Figure 3, the Tenderloin district consistently emerges as the safest area with regards to vehicle theft, which as discussed before, showed the biggest reduction in reported auto thefts after the CCTV installation in 2005. This observation may seem unexpected, considering the reputation of the Tenderloin district among others in the center such as Mission, for its prevalence of crimes, which may be mainly by violent crimes. On the other hand, the Ingleside district generally exhibits the highest ratio of vehicle thefts, positioning it as one of the least secure areas in this regard, probably due to its proximity to access points to major highways. However, it is important to point out that, following a rise in vehicle thefts starting in 2011, Ingleside reached its peak in 2014 before declining gradually.
+Figure 2 depicts a heatmap with data from the most recent year, 2017, illustrating the distribution of global depression prevalence. Greenland, with a prevalence of 6.55%, remains at the forefront. As can be seen in Figure 2, there is a contrast between developed and less-developed countries. 
 
-It is indeed noteworthy that the number of vehicle thefts peaked in 2015 across several districts, including Mission and Northern. We propose that this surge may be linked to justice reforms. Specifically, in November 2014, Proposition 47 was introduced, which downgraded certain nonviolent felonies to misdemeanors [3]. However, this change sparked controversy, and definitive conclusions regarding the impact of justice reforms on crime rates remain elusive.
+&nbsp;
 
-In conclusion, our analysis of the San Francisco Police Dataset revealed intriguing insights into the impact of CCTV installation on vehicle theft rates in the city. Despite initial concerns and opposition, manifesting the inefficacy of this system, the beginning of the installation of CCTV cameras coincided with a noticeable reduction in reported vehicle thefts, suggesting a potential deterrent effect on non-violent crimes such as these. Our analysis, based on geolocated data, suggests that the installation of the CCTV had a big impact from 2005 to 2006 in districts such as Tenderloin or Park, which are known for having a high affluence of vehicles, and thus, targets for this type of crimes.
+![heatmap](/assets/images/dd_heatmap.png)  
+*Figure 2: Heatmap.*
 
-Furthermore, the multi-line interactive graph in Figure 3 illustrates how the introduction of CCTV contributed to reduce the number of vehicle thefts across different districts over time. Tenderloin district exhibits the most significant decline in thefts post-CCTV installation. However, challenges remain, as evidenced by fluctuations in theft rates observed post-2010 and the persistent high incidence in districts like Ingleside. This underscores the need for continued evaluation and adaptation of surveillance strategies alongside complementary crime prevention measures to ensure sustained improvements in public safety throughout San Francisco.
+&nbsp;
+
+In 2017, while Greenland reported the highest prevalence, countries like Albania, Myanmar, Poland, Peru, and Romania displayed notably lower rates. We suggest that this divergence could stem from two potential reasons. First, depression might genuinely be less prevalent in these countries. Alternatively, due to the current state of these countries, limited resources and efforts might be put in when carrying out surveys and studies, thus, these lower rates may reflect the lack of interest or prioritization in mental health research in these countries. 
+
+Since World War II, Greenland has undergone significant social and political transformations. This has caused profound changes within the Greenland society, impacting the population’s mental health in both positive and negative ways.
+It is worth mentioning a study carried out in 2014 by the WHO, which highlighted gender-specific trends. In particular, this survey showed that girls in Greenland reported higher levels of depression, nervousness, and sleep difficulties compared to boys. This trend can be corroborated by our data, as seen in Figure 3.
+
+![malevsfemale](/assets/images/malevsfemale.png)  
+*Figure 3: *
+
+Notably, the prevalence among females has consistently been approximately twice as high as among males. However, recent data suggest a promising trend of decreasing the prevalence, indicating potential improved interventions targeting the female population in Greenland. 
+Another significant finding from the same survey points towards the heightened vulnerability of younger individuals, being identified as the most susceptible group, facing increased risks associated with depression, substance abuse, and suicidal tendencies. This affirmation is supported by Figure 4, which shows the prevalence of depression across different age groups in Greenland in 2017. As illustrated, the highest prevalence rate is associated with the population between 20-24 years old. 
+
+
+![agegroups](/assets/images/agegreenland.png)  
+*Figure 4: *
+
+Exploring the Link Between Alcohol and Drug Disorders with Suicide Rates.
+
+There is a prevailing hypothesis suggesting that high rates of substance consumption might contribute to elevated depression and suicide rates. With this in mind, we sought to investigate potential correlations between alcohol and drug disorders and depression prevalence and suicide rates. 
+
+
+![drugalc](/assets/images/drugalc.png)  
+*Figure 5: *
+
+Figure 5 reveals striking trends in the prevalence of alcohol and drug disorders in Greenland against the average of different European countries across the last decades. Given these findings on the prevalence of alcohol and drug disorders, it is plausible to suggest a potential correlation between these elevated rates and depression and suicide in Greenland.
+
+
 
 **References**
 
-[1] Knight, Heather (2008, March 21). “Crime cameras not capturing many crimes” San Francisco Chronicle.
+1. Hidaka, B. H. (2012). Depression as a disease of modernity: explanations for increasing prevalence. Journal of affective disorders, 140(3), 205-214.
 
-[2] Google Maps. (23/03/2024). Community Cameras in San Francisco. Retrieved from [https://www.google.com/maps/d/viewer?mid=1gn9aYH09MHPQk7YD9EbOwg_sGJEFtefN&hl=en_US&ll=37.75638790588526%2C-122.3895447&z=13](https://www.google.com/maps/d/viewer?mid=1gn9aYH09MHPQk7YD9EbOwg_sGJEFtefN&hl=en_US&ll=37.75638790588526%2C-122.3895447&z=13)
-
-[3] Ho, Vivian & Veklerov, Kimberly (2016, March 16). "SF car break-ins up 31 percent, nearly triple in 5 years" San Francisco Chronicle. 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
