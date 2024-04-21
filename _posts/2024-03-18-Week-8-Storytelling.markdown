@@ -6,7 +6,6 @@ categories:
   - Data
   - Visualization
   - Storytelling
-  - Mental Health
 ---
 
 The prevalence of common mental disorders is increasing among the populations of Western developed nations (1). Notably, Depressive Disorder (DD) stands out as one of the most significant mental health challenges. 
