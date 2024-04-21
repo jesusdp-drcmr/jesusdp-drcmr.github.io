@@ -46,6 +46,7 @@ defaults:
 include:
   - "*.md"
   - "_posts/*.md"
+  - "_layouts/*.txt"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
