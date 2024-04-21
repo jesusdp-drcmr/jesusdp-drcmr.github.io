@@ -1,22 +1,33 @@
 ---
-layout: default
-title: "Exploring Mental Health"
+layout: page
+title: "Mental Health"
 date: 2024-04-21 16:40:00 +0100
 categories: 
-  - Data Visualization
-  - Mental Health
+  - Data
+  - Visualization
+  - Storytelling
 ---
 
-The prevalence of common mental disorders is increasing among the populations of Western developed nations (1). Notably, Depressive Disorder (DD) stands out as one of the most significant mental health challenges. 
-While mental illnesses are treatable, accurately estimating their prevalence and understanding their potential associations with other factors remains challenging. To address this, it is crucial to collect reliable data and analyze it effectively to comprehend these conditions—examining how, when, and why they occur, as well as the number of people affected by them.
-With this project, we aim to study a series of datasets encompassing the prevalence of various mental health disorders globally and across different years, with a special focus on DD, and other related information. More specifically, we seek to study the relationship between DD with other factors, such as Alcohol or Drug disorders, or Suicide Rates, both globally and in greater detail within those countries where DD is a significant problem.
+San Francisco, renowned for its Golden Gate Bridge, faced high crime rates in the 2000s, particularly auto theft. We analyzed the San Francisco Police Dataset (2003–2017), which contains records of reported incidents within the city, such as the crime type, location, date, and time. By analyzing this dataset, we aimed to find potential correlations in the evolution of vehicle theft data and the political and social situation of San Francisco.
 
-In order to gain a broader vision of the distribution of depression prevalence globally, we developed an interactive bar chart plot that serves as a dynamic tool to explore and visualize the prevalence of depression annually from 1990 to 2017. This plot allows users to select a specific year and highlights countries with both the highest and lowest depression prevalence. Notably, Greenland consistently stands out with the highest prevalence.  
+Despite privacy concerns, 68 CCTV cameras were installed in the city since 2005 [1]. However, based on the data, we suggest that the installation of CCTV actually had an impact on the number of vehicle thefts, reducing them. Our reasoning is that although the system doesn't actively contribute to reducing crime, it may have an impact on non-violent crimes. This hypothesis is suggested by Figure 1, which reflects a significant difference in the number of reported vehicle thefts after 2005 when CCTV was initially installed in San Francisco. The number of reported vehicle thefts continued to decrease until 2010, subsequently increasing but not matching the levels observed before the introduction of CCTV.
+
+
+Figure 2 illustrates the variation in vehicle thefts across different districts in San Francisco from 2005 to 2006. The intensity of red shading corresponds to the relative decrease in stolen vehicles within each district compared to 2005. Overall, there was a significant disparity in vehicle theft, ranging from -64% to -56% compared to the previous year. Interestingly, this pattern aligns with the areas of highest police focus, where additional surveillance cameras were strategically placed to prevent vehicle theft in the Tenderloin, Park, and Taraval districts. Notably, these camera positions correlate closely with the observed changes in theft rates [2].
+
+
+![timeSeries](/assets/images/TimeSeries_v2.png)  
+*Figure 1: Line graph representing the number of vehicle thefts in San Francisco, before and after the installation of the CCTV system.*
 
 &nbsp;
 
-<iframe src="/assets/images/interactive_plot_1990_2017.html" width="630" height="405"></iframe>
-*Figure 1: Depression Prevalence*
+![heatmap](/assets/images/heatmap_v2.png)  
+*Figure 2: Heatmap showing Vehicle Theft difference from 2005 to 2006 by Police District in San Francisco.*
+
+&nbsp;
+
+<iframe src="/assets/images/MultiLineNorm.html" width="630" height="405"></iframe>
+*Figure 3: Multi-line interactive graph illustrating the normalized incidence of vehicle thefts across various districts in San Francisco from 2003 to 2017*
 
 &nbsp;
 
