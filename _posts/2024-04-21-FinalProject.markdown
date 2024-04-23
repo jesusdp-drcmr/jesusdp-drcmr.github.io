@@ -62,7 +62,7 @@ Could high rates of substance consumption contribute to elevated depression and 
 
 
 &nbsp;
-
+17:46 22/04/202417:46 22/04/202417:46 22/04/202417:46 22/04/2024
 ![drugalc](/assets/images/drugalc.png)  
 *Figure 5: Prevalence of Alcohol and Drug Disorders in Greenland Compared to European Averages (1990-2017).*
 
@@ -77,7 +77,7 @@ Conversely, Figure 7 reveals a very weak correlation between depression prevalen
 
 &nbsp;
 
-<iframe src="/assets/images/mental_health_visualization.html" width="630" height="405"></iframe>
+<iframe src="/assets/images/alc_drug.html" width="630" height="405"></iframe>
 *Figure 6:  *
 
 &nbsp;
