@@ -77,7 +77,7 @@ Conversely, Figure 7 reveals a very weak correlation between depression prevalen
 
 &nbsp;
 
-<iframe src="/assets/images/alc_drug.html" width="630" height="405"></iframe>
+<iframe src="/assets/images/alc_drug.html" width="1000" height="500"></iframe>
 *Figure 6:  *
 
 &nbsp;
