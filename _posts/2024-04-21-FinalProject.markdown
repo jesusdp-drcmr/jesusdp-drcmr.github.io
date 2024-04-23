@@ -39,7 +39,7 @@ Are there any differences regarding the distribution of DD prevalence across Gre
 
 &nbsp;
 
-![malevsfemale](/assets/images/malevsfemale.png)  
+![malevsfemale](/assets/images/malevsfemale_2.png)  
 *Figure 3: Gender-Specific Depression Prevalence in Greenland (1990-2017).*
 
 &nbsp;
@@ -62,8 +62,8 @@ Could high rates of substance consumption contribute to elevated depression and 
 
 
 &nbsp;
-17:46 22/04/202417:46 22/04/202417:46 22/04/202417:46 22/04/2024
-![drugalc](/assets/images/drugalc.png)  
+
+![drugalc](/assets/images/drugalc_2.png)  
 *Figure 5: Prevalence of Alcohol and Drug Disorders in Greenland Compared to European Averages (1990-2017).*
 
 &nbsp;
