@@ -7,83 +7,77 @@ categories:
   - Mental Health
 ---
 
-The prevalence of common mental disorders, particularly Depressive Disorder (DD), is escalating across developed nations, presenting a significant and growing challenge to public health. 
+Mental illnesses are becoming increasingly common worldwide. Depression is among the most prevalent mental health disorders impacting adults globally [1], and its rising rates across the general population have elevated it to a serious public health issue. One of the countries that suffers from a high depression rate is Greenland.
 
-In particular, Greenland has undergone significant social and political transformations since World War II. This has caused profound changes within the Greenland society, impacting the population’s mental health, with DD emerging as a prominent concern.
+Greenland has undergone significant social and political transformations since World War II, resulting in considerable changes in its society. These transformations have influenced the mental health of its population, with depression becoming a major concern.
 
-While this condition treatable, accurately estimating its prevalence and understanding its trends and potential associations with other factors remains challenging. To address this, it is crucial to conduct targeted research by collect reliable data and analyze it effectively.
+In Greenland, the healthcare system is challenged by a lack of qualified healthcare providers, financial constraints, and having to deliver high-quality treatments in a very large and sparsely populated country. Thus, accurately estimating the prevalence of depression and understanding its potential relations with other factors remains challenging.
+ 
+How does Greenland's situation compare to other countries? What factors might explain these differences? How is depression distributed across the population, and are there any clear trends or patterns that reveal the unique challenges and dynamics of depression prevalence in Greenland? To explore these questions, we will use data visualisation techniques.
 
-What factors might contribute to the prevalence of depression in the case of Greenland? How does it distribute across the population? Are there any discernible trends or patterns that can shed light on the unique challenges and dynamics of DD prevalence in Greenland? By using data visualization techniques, we seek to explore the DD prevalence in Greenland, compare with other countries, identifying trends, patterns, and potential contributing factors.
+To set the stage for our analysis of Greenland's data, we begin by providing a snapshot of the global landscape of depression prevalence through a choropleth map (Figure 1). It allows for an examination of the annual prevalence of depression worldwide from 1990 to 2017, highlighting countries with both the highest and lowest rates of depression.
 
-To set the stage for our analysis on Greenland's data, we begin by providing a snapshot of the global landscape of depression prevalence through an interactive bar chart plot (Figure 1). This intuitive tool enables users to explore the annual prevalence of depression globally from 1990 to 2017, spotlighting countries with both the highest and lowest rates.
 
 
 &nbsp;
 
-<iframe src="/assets/images/interactive_plot_1990_2017.html" width="630" height="405"></iframe>
+<iframe src="/assets/images/depression_world_map.html" width="630" height="405"></iframe>
 *Figure 1: Depression Prevalence. *
 
 &nbsp;
 
-As it can be unfolded, Greenland consistently stands out with the highest depression prevalence rates. By 2017, its DD prevalence reached 6.55%, as illustrated in Figure 2.
+As can be unfolded, Greenland consistently stands out with the highest depression prevalence rates.  Illustrated in Figure 2, although there are fluctuations and a general downward trend in depression rate in Greenland, it is still considerably higher than the Europe and world averages. However, it is worth noting that depression cases may be underreported in many countries due to social stigma or due to limited resources and effects put in when carrying out surveys and studies.
 
 
-&nbsp;
 
-![heatmap](/assets/images/dd_heatmap.png)  
-*Figure 2: Heatmap.*
 
-&nbsp;
 
-Are there any differences regarding the distribution of DD prevalence across Greenlandic population? A study carried out in 2014 by the World Health Organization (WHO) highlighted gender-specific trends within Greenland. This survey revealed that girls in Greenland reported elevated levels of depression, nervousness, and sleep difficulties compared to boys. 
+
+Before exploring the data from Greenland, let's examine how depressive disorder is related to other disorders. Figure 3 presents a correlation heatmap, which shows correlations of each disorder with others. As can be seen, depression is positively correlated with anxiety disorders and drug use disorders, with correlation values of 0.38 and 0.37, respectively. These notable correlations warrant further investigation. Additionally, it would be useful to understand Greenland's position in comparison to Europe and world averages for various disorders.
 
 &nbsp;
 
-![malevsfemale](/assets/images/malevsfemale_2.png)  
-*Figure 3: Gender-Specific Depression Prevalence in Greenland (1990-2017).*
+<iframe src="/assets/images/correlation_heatmap_general.html" width="630" height="405"></iframe>
+*Figure 23 *
 
 &nbsp;
 
-As depicted in Figure 3, the prevalence of depression among females has consistently been approximately twice as high as among males. However, recent data indicates a promising trend of decreasing the prevalence, suggesting potential improvements in interventions targeting the female population in Greenland.
-
-Another significant finding from the 2014 survey underscores the heightened vulnerability of younger individuals in Greenland. They were identified as the most susceptible group, facing increased risks associated with depression, substance abuse, and suicidal tendencies. Remarkably, this pattern persists in the data from subsequent years, as evidenced by Figure 4, which delineates the prevalence of depression across different age groups in Greenland for the year 2017. As depicted, the highest prevalence rate continues to be associated with the population aged between 20-24 years, reaffirming the enduring nature of this concerning trend.
+Compared to the average rates observed in Europe and worldwide over the last decades, striking trends in the prevalence of different disorders in Greenland can be seen in Figure 4. Greenland consistently exhibits higher rates in various disorders. In particular, prevalence of alcohol and drug use disorders in Greenland is twice the average of the European countries. According to authorities, risky use of alcohol and marihuana are one of the most important public health challenges in Greenland. [JD1] Also, previous studies suggest that, in Greenland, the major alcohol-related problem was that a large proportion of the population indulged in repeated acute alcohol intoxication and not as in Denmark chronic alcoholism.[JD2] 
 
 &nbsp;
 
-![agegroups](/assets/images/agegreenland.png)  
-*Figure 4: Depression Prevalence Across Different Age Groups in Greenland (2017).*
+![timeSeries](/assets/images/trends_disorders_comparisom.png)  
+*Figure 4: *
 
 &nbsp;
 
-
-Figure 5 reveals striking trends in the prevalence of alcohol and drug disorders in Greenland compared to the average rates observed in various European countries over the last decades. Given these observed patterns, it becomes increasingly plausible to suggest a potential correlation between these elevated rates of alcohol and drug disorders and the rates of depression and suicide in Greenland.
-
-Could high rates of substance consumption contribute to elevated depression and suicide rates in Greenland? A prevailing hypothesis suggests that high rates of substance consumption might indeed play a role. With this hypothesis as our guide, we aim to uncover trends in alcohol and drug consumption in Greenland that could potentially correlate alcohol and drug disorders with the prevalence of depression and suicide rates.
-
+Based on this, now we focus on the data of Greenland in particular, since identifying high-risk groups is essential for creating targeted public health interventions. Can there be variations in the prevalence of depressive disorders among different groups within the Greenlandic population? A 2014 study by the World Health Organization (WHO) underscored gender-specific trends in Greenland, noting that women reported higher levels of depression, nervousness, and sleep difficulties than men. As depicted in Figure 5, the prevalence of depression among females has consistently been approximately twice as high as among males. However, recent data indicates a promising trend of decreasing the prevalence, suggesting potential improvements in interventions targeting the female population.
 
 &nbsp;
 
-![drugalc](/assets/images/drugalc_2.png)  
-*Figure 5: Prevalence of Alcohol and Drug Disorders in Greenland Compared to European Averages (1990-2017).*
+![timeSeries](/assets/images/malevsfe.png)  
+*Figure 5: *
 
 &nbsp;
 
-To visualize and explore potential correlations between these disorders and depression prevalence, we developed interactive scatterplots depicting Depression vs. Drug Use Disorders and Depression vs. Alcohol Use Disorders in 2017 globally. These visualizations particularly highlight observations from Greenland and other European countries.
+When investigating the causes, a multivariate analysis of Greenlanders aged 18–59 identified significant predictors of depressive symptoms: unemployment among men and, for women, experiences of sexual abuse (Bjerregaard & Curtis, 2002). Additionally, studies have suggested that the prevalence of childhood sexual abuse in Greenlandic females might be among the highest in the world. The impact of sexual abuse on the social and emotional well-being of children, as well as their development, is increasingly well understood. Furthermore, there is a documented link between the trauma of childhood sexual abuse and higher rates of various psychological and social challenges in adulthood, including depression.
 
-Figure 6 suggests that as depression prevalence increases, there is a tendency for drug use disorders to also rise. This finding supports the hypothesis that substance abuse might exacerbate mental health challenges in the population.
 
-Conversely, Figure 7 reveals a very weak correlation between depression prevalence and alcohol use disorders. This suggests that, while alcohol use disorders are prevalent in Greenland, they may not directly contribute to the high rates of depression in the same manner as drug use disorders, challenging our initial hypothesis.
+In general, older individual groups are the ones who are more vulnerable to suffer from depression. However, as demonstrated in Figure 6, the population aged 20-24 consistently shows the highest prevalence rate, confirming the persistent nature of the heightened vulnerability of younger individuals in Greenland.
 
+
+
+
+We have observed worldwide correlations among disorders and noted that in Greenland, alcohol use disorders, drug use disorders, and anxiety disorders significantly exceed the averages in Europe and globally. Given these observed patterns, it becomes increasingly plausible to suggest a potential correlation between these elevated rates of alcohol and drug disorders and the rates of depression, and maybe suicide in Greenland. How do these disorders correlate within Greenland itself? Could there be underlying connections between them?
+
+Surprisingly, in Figure 7, we observe that the correlation patterns of disorders in Greenland diverge significantly from global trends. In Greenland, we see a decrease in depression rates over time, while both anxiety and drug use are on the rise. This discrepancy might suggest that while there is a significant focus on the high rates of depression, other disorders may have been neglected. Moreover, while no correlation between alcohol use and depression is observed globally, in Greenland specifically, both are seen to follow a declining trend over time.
 
 &nbsp;
 
-<iframe src="/assets/images/alc_drug.html" width="1000" height="500"></iframe>
-*Figure 6:  *
+<iframe src="/assets/images/depression_correlation_green.html" width="630" height="405"></iframe>
+*Figure 7: *
 
 &nbsp;
-
-
-
 
 
 
