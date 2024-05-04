@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  jesusdp-drcmr
 
 # Build settings
-remote_theme: jasonlong/cayman-theme
+theme: minima
 plugins:
   - jekyll-feed
 
