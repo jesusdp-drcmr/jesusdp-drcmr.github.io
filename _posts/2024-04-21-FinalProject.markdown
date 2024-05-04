@@ -21,7 +21,7 @@ To set the stage for our analysis of Greenland's data, we begin by providing a s
 
 &nbsp;
 
-<iframe src="/assets/images/depression_world_map.html" width="1000" height="500"></iframe>
+<iframe src="/assets/images/depression_world_map.html" width="1000" height="520"></iframe>
 *Figure 1: Depression Prevalence. *
 
 &nbsp;
@@ -29,7 +29,12 @@ To set the stage for our analysis of Greenland's data, we begin by providing a s
 As can be unfolded, Greenland consistently stands out with the highest depression prevalence rates.  Illustrated in Figure 2, although there are fluctuations and a general downward trend in depression rate in Greenland, it is still considerably higher than the Europe and world averages. However, it is worth noting that depression cases may be underreported in many countries due to social stigma or due to limited resources and effects put in when carrying out surveys and studies.
 
 
+&nbsp;
 
+![timeSeries](/assets/images/greevsworld.png)  
+*Figure 2: *
+
+&nbsp;
 
 
 
@@ -38,7 +43,7 @@ Before exploring the data from Greenland, let's examine how depressive disorder 
 &nbsp;
 
 <iframe src="/assets/images/correlation_heatmap_general.html" width="600" height="600"></iframe>
-*Figure 23 *
+*Figure 3 *
 
 &nbsp;
 
@@ -65,7 +70,12 @@ When investigating the causes, a multivariate analysis of Greenlanders aged 18â€
 
 In general, older individual groups are the ones who are more vulnerable to suffer from depression. However, as demonstrated in Figure 6, the population aged 20-24 consistently shows the highest prevalence rate, confirming the persistent nature of the heightened vulnerability of younger individuals in Greenland.
 
+&nbsp;
 
+<iframe src="/assets/images/depression_prevalence_by_age.html" width="700" height="500"></iframe>
+*Figure 6: *
+
+&nbsp;
 
 
 We have observed worldwide correlations among disorders and noted that in Greenland, alcohol use disorders, drug use disorders, and anxiety disorders significantly exceed the averages in Europe and globally. Given these observed patterns, it becomes increasingly plausible to suggest a potential correlation between these elevated rates of alcohol and drug disorders and the rates of depression, and maybe suicide in Greenland. How do these disorders correlate within Greenland itself? Could there be underlying connections between them?
