@@ -21,7 +21,7 @@ To set the stage for our analysis of Greenland's data, we begin by providing a s
 
 &nbsp;
 
-<iframe src="/assets/images/depression_world_map.html" width="630" height="405"></iframe>
+<iframe src="/assets/images/depression_world_map.html" width="1000" height="500"></iframe>
 *Figure 1: Depression Prevalence. *
 
 &nbsp;
@@ -37,7 +37,7 @@ Before exploring the data from Greenland, let's examine how depressive disorder 
 
 &nbsp;
 
-<iframe src="/assets/images/correlation_heatmap_general.html" width="630" height="405"></iframe>
+<iframe src="/assets/images/correlation_heatmap_general.html" width="600" height="600"></iframe>
 *Figure 23 *
 
 &nbsp;
@@ -74,7 +74,7 @@ Surprisingly, in Figure 7, we observe that the correlation patterns of disorders
 
 &nbsp;
 
-<iframe src="/assets/images/depression_correlation_green.html" width="630" height="405"></iframe>
+<iframe src="/assets/images/depression_correlation_green.html" width="800" height="500"></iframe>
 *Figure 7: *
 
 &nbsp;
