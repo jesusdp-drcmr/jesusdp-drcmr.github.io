@@ -67,7 +67,7 @@ Based on this, now we focus on the data of Greenland in particular, since identi
 <br><br>
 
 <div style="text-align: center;">
-![timeSeries](/assets/images/malevsfe.png)  
+<img src="/assets/images/malevsfe.png" alt="Time Series Graph showing the changes in Depression Prevalence in Greenland over time for males and females." width="600">
 </div>
 
 <div style="text-align: center; font-style: italic;">
