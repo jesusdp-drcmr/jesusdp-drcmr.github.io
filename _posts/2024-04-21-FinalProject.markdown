@@ -113,13 +113,8 @@ As we continue to delve deeper into the data and collaborate across disciplines,
 
 4. Clemmesen, C. (1958). Oversigt over alkoholproblemet på Grønland [Overview of the alcohol problem in Greenland. In Danish]. Ugeskr Læger, 120, 1374–1379.<br><br>
 
-5. <br><br>
+5. Olano, F. A., & Rasmussen, J. (2019). Psychiatric disorders in Greenland. Ugeskrift for Laeger, 181(47), V06190345-V06190345. <br><br>
 
 6. Bjerregaard, P., & Curtis, T. (2002). Cultural change and mental health in Greenland: the association of childhood conditions, language, and urbanization with mental health and suicidal thoughts among the Inuit of Greenland. Social Science & Medicine, 54(1), 33-48.<br><br>
 
 7. Baviskar, S., & Christensen, E. (2011). Childhood sexual abuse of women in Greenland and its developmental correlates among their children. International Journal of Circumpolar Health, 70(1), 29-36.<br><br>
-
-
-[jekyll-docs]: https://jekyllrb.com/docs/home <br><br>
-[jekyll-gh]:   https://github.com/jekyll/jekyll <br><br>
-[jekyll-talk]: https://talk.jekyllrb.com/ <br><br>
