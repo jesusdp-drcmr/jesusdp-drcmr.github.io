@@ -19,12 +19,14 @@ How does Greenland's situation compare to other countries? What factors might ex
 
 To set the stage for our analysis of Greenland's data, we begin by providing a snapshot of the global landscape of depression prevalence through a choropleth map (Figure 1). It allows for an examination of the annual prevalence of depression worldwide from 1990 to 2017, highlighting countries with both the highest and lowest rates of depression. However, it is worth noting that depression cases may be underreported in many countries due to social stigma or due to limited resources and effects put in when carrying out surveys and studies. <br><br>
 
+
 <div style="text-align: center;">
 <iframe src="/assets/images/depression_world_map.html" width="1000" height="520"></iframe>
-*Figure 1: Interactive World Heatmap of Depression Prevalence from 1990 to 2017.*
 </div>
 
-<br><br>
+<div style="text-align: center; font-style: italic;">
+Figure 1: Interactive World Heatmap of Depression Prevalence from 1990 to 2017.
+</div><br><br>
 
 As can be unfolded, Greenland consistently stands out with the highest depression prevalence rates. Illustrated in Figure 2, although there are fluctuations and a general downward trend in depression rate in Greenland, it is still considerably higher than the Europe and world averages. From 2014 to 2017, where it can be seen a decreasing pattern in depression prevalence, the Greenlandic government implemented various initiatives to address mental health issues. For example, the Ministry of Education, Culture, Research, and Church included provisions in their plan to offer psychological therapy for students (2). Additionally, since 2010, the Ministry of Health of Greenland has implemented a national intervention called "Early Intervention," which aims to reduce the risk of children developing behavioral, mental, or physical health problems, or encountering difficulties in school (2). <br><br>
 
