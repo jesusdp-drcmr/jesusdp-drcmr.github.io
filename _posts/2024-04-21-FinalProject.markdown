@@ -28,7 +28,7 @@ To set the stage for our analysis of Greenland's data, we begin by providing a s
 Figure 1: Interactive World Heatmap of Depression Prevalence from 1990 to 2017.
 </div><br><br>
 
-As can be unfolded, Greenland consistently stands out with the highest depression prevalence rates. Illustrated in Figure 2, although there are fluctuations and a general downward trend in depression rate in Greenland, it is still considerably higher than the Europe and world averages. From 2014 to 2017, where it can be seen a decreasing pattern in depression prevalence, the Greenlandic government implemented various initiatives to address mental health issues. For example, the Ministry of Education, Culture, Research, and Church included provisions in their plan to offer psychological therapy for students (2). Additionally, since 2010, the Ministry of Health of Greenland has implemented a national intervention called "Early Intervention," which aims to reduce the risk of children developing behavioral, mental, or physical health problems, or encountering difficulties in school (2). <br><br>
+As can be unfolded, Greenland consistently stands out with the highest depression prevalence rates. Illustrated in Figure 2, although there are fluctuations and a general downward trend in depression rate in Greenland, it is still considerably higher than the global average prevalence. From 2014 to 2017, where it can be seen a decreasing pattern in depression prevalence, the Greenlandic government implemented various initiatives to address mental health issues. For example, the Ministry of Education, Culture, Research, and Church included provisions in their plan to offer psychological therapy for students (2). Additionally, since 2010, the Ministry of Health of Greenland has implemented a national intervention called "Early Intervention," which aims to reduce the risk of children developing behavioral, mental, or physical health problems, or encountering difficulties in school (2). <br><br>
 
 <div style="text-align: center;">
 <img src="/assets/images/greevsworld.png" alt="Time Series Graph of Depression Prevalence in Greenland (Red) and the Global Average (Gray)." width="600">
@@ -96,42 +96,30 @@ Surprisingly, in Figure 7, we observe that the correlation patterns of disorders
 Figure 7: Interactive scatter plots of the Prevalence of Depression against Alcohol Use, Anxiety, and Drug Use Disorders in Greenland (1990-2017).
 </div><br><br>
 
-We have observed worldwide correlations among disorders and noted that in Greenland, alcohol use disorders, drug use disorders, and anxiety disorders significantly exceed the averages in Europe and globally. Given these observed patterns, it becomes increasingly plausible to suggest a potential correlation between these elevated rates of alcohol and drug disorders and the rates of depression, and maybe suicide in Greenland. How do these disorders correlate within Greenland itself? Could there be underlying connections between them? <br><br>
-
-Surprisingly, in Figure 7, we observe that the correlation patterns of disorders in Greenland diverge significantly from global trends. In Greenland, we see a decrease in depression rates over time, while both anxiety and drug use are on the rise. This discrepancy might suggest that while there is a significant focus on the high rates of depression, other disorders may have been neglected. Moreover, while no correlation between alcohol use and depression is observed globally, in Greenland specifically, both are seen to follow a declining trend over time. <br><br>
-
-
-<iframe src="/assets/images/depression_correlation_green.html" width="800" height="500"></iframe>
-*Figure 7: Interactive scatter plots of the Prevalence of Depression against Alcohol Use, Anxiety, and Drug Use Disorders in Greenland (1990-2017).*
-
-<br><br>
-
 In conclusion, our journey through the data has illuminated the complex landscape of depression and mental health in Greenland. This project reveals and highlights intriguing trends and correlations. Notably, women consistently report higher levels of depression, while younger age groups, particularly those aged 20-24, appear most vulnerable. Furthermore, the correlation between depression and other disorders diverges from global patterns, suggesting unique dynamics within Greenland's population. <br><br>
 
 Understanding these nuances is crucial for devising targeted interventions that address the multifaceted nature of mental health challenges in Greenland. Moving forward, holistic approaches that consider social, cultural, and economic factors alongside individual experiences are essential for fostering resilience and improving mental well-being in Greenlandic communities. <br><br>
 
-As we continue to delve deeper into the data and collaborate across disciplines, we can hope to pave the way for more effective policies and support systems that promote mental health and resilience for all residents of Greenland. <br><br>
-
-Through ongoing research and data-driven insights, we can strive towards a future where mental health disparities are addressed, and every individual has access to the care and support they need to thrive. <br><br>
+As we continue to delve deeper into the data and collaborate across disciplines, we can hope to pave the way for more effective policies and support systems that promote mental health and resilience for all residents of Greenland. Through ongoing research and data-driven insights, we can strive towards a future where mental health disparities are addressed, and every individual has access to the care and support they need to thrive. <br><br>
 
 
 **References**
+<br><br>
+1. Hidaka, B. H. (2012). Depression as a disease of modernity: explanations for increasing prevalence. Journal of affective disorders, 140(3), 205-214. <br><br>
 
-1. Hidaka, B. H. (2012). Depression as a disease of modernity: explanations for increasing prevalence. Journal of affective disorders, 140(3), 205-214.
+2. Karsberg, S. (2016). Mental health among youth in Greenland: Who is responsible? What is being done?.<br><br>
 
-2. Karsberg, S. (2016). Mental health among youth in Greenland: Who is responsible? What is being done?.
+3. Bjerregaard, P., Larsen, C. V., Sørensen, I. K., & Tolstrup, J. S. (2020). Alcohol in Greenland 1950-2018: consumption, drinking patterns, and consequences. International journal of circumpolar health, 79(1), 1814550.<br><br>
 
-3. Bjerregaard, P., Larsen, C. V., Sørensen, I. K., & Tolstrup, J. S. (2020). Alcohol in Greenland 1950-2018: consumption, drinking patterns, and consequences. International journal of circumpolar health, 79(1), 1814550.
+4. Clemmesen, C. (1958). Oversigt over alkoholproblemet på Grønland [Overview of the alcohol problem in Greenland. In Danish]. Ugeskr Læger, 120, 1374–1379.<br><br>
 
-4. Clemmesen, C. (1958). Oversigt over alkoholproblemet på Grønland [Overview of the alcohol problem in Greenland. In Danish]. Ugeskr Læger, 120, 1374–1379.
+5. <br><br>
 
-5. 
+6. Bjerregaard, P., & Curtis, T. (2002). Cultural change and mental health in Greenland: the association of childhood conditions, language, and urbanization with mental health and suicidal thoughts among the Inuit of Greenland. Social Science & Medicine, 54(1), 33-48.<br><br>
 
-6. Bjerregaard, P., & Curtis, T. (2002). Cultural change and mental health in Greenland: the association of childhood conditions, language, and urbanization with mental health and suicidal thoughts among the Inuit of Greenland. Social Science & Medicine, 54(1), 33-48.
-
-7. Baviskar, S., & Christensen, E. (2011). Childhood sexual abuse of women in Greenland and its developmental correlates among their children. International Journal of Circumpolar Health, 70(1), 29-36.
+7. Baviskar, S., & Christensen, E. (2011). Childhood sexual abuse of women in Greenland and its developmental correlates among their children. International Journal of Circumpolar Health, 70(1), 29-36.<br><br>
 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[jekyll-docs]: https://jekyllrb.com/docs/home <br><br>
+[jekyll-gh]:   https://github.com/jekyll/jekyll <br><br>
+[jekyll-talk]: https://talk.jekyllrb.com/ <br><br>
