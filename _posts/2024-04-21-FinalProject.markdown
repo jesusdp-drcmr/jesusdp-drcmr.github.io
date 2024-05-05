@@ -52,7 +52,7 @@ Compared to the average rates observed in Europe and worldwide over the last dec
 
 <br><br>
 <div style="text-align: center;">
-<img src="/assets/images/trends_disorders_comparisom.png" alt="Time series graph showing the changes in Alcohol Use, Anxiety, and Drug Use disorders prevalence in Greenland against the European average and global average from 1990 to 2017." width="600" height="200">
+<img src="/assets/images/trends_disorders_comparisom.png" alt="Time series graph showing the changes in Alcohol Use, Anxiety, and Drug Use disorders prevalence in Greenland against the European average and global average from 1990 to 2017." width="600" height="400">
 </div>
 
 <div style="text-align: center; font-style: italic;">
