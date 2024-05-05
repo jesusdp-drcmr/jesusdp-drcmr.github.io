@@ -30,9 +30,8 @@ Figure 1: Interactive World Heatmap of Depression Prevalence from 1990 to 2017.
 
 As can be unfolded, Greenland consistently stands out with the highest depression prevalence rates. Illustrated in Figure 2, although there are fluctuations and a general downward trend in depression rate in Greenland, it is still considerably higher than the Europe and world averages. From 2014 to 2017, where it can be seen a decreasing pattern in depression prevalence, the Greenlandic government implemented various initiatives to address mental health issues. For example, the Ministry of Education, Culture, Research, and Church included provisions in their plan to offer psychological therapy for students (2). Additionally, since 2010, the Ministry of Health of Greenland has implemented a national intervention called "Early Intervention," which aims to reduce the risk of children developing behavioral, mental, or physical health problems, or encountering difficulties in school (2). <br><br>
 
-
 <div style="text-align: center;">
-![timeSeries](/assets/images/greevsworld.png)  
+<img src="/assets/images/greevsworld.png" alt="Time Series Graph of Depression Prevalence in Greenland (Red) and the Global Average (Gray)." width="600">
 </div>
 
 <div style="text-align: center; font-style: italic;">
@@ -49,12 +48,11 @@ Before exploring the data from Greenland, let's examine how depressive disorder 
 Figure 3: Interactive Heatmap showing the Correlation of Global Depression Prevalence with other Mental Disorders.
 </div><br><br>
 
-
 Compared to the average rates observed in Europe and worldwide over the last decades, striking trends in the prevalence of different disorders in Greenland can be seen in Figure 4. Greenland consistently exhibits higher rates in various disorders. In particular, prevalence of alcohol and drug use disorders in Greenland is twice the average of the European countries. According to authorities, risky use of alcohol and marihuana are one of the most important public health challenges in Greenland (3). Also, previous studies suggest that, in Greenland, the major alcohol-related problem was that a large proportion of the population indulged in repeated acute alcohol intoxication and not as in Denmark chronic alcoholism (4).  
 
 <br><br>
 <div style="text-align: center;">
-![timeSeries](/assets/images/trends_disorders_comparisom.png)  
+<img src="/assets/images/trends_disorders_comparisom.png" alt="Time series graph showing the changes in Alcohol Use, Anxiety, and Drug Use disorders prevalence in Greenland against the European average and global average from 1990 to 2017." width="600">
 </div>
 
 <div style="text-align: center; font-style: italic;">
