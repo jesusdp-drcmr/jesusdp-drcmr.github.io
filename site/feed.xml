@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-05T14:16:03+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Social Data Analysis and Visualization 2024</title><subtitle>This is a test for Week 7 of the course</subtitle><entry><title type="html">Exploring Mental Health</title><link href="http://localhost:4000/data/mental%20health/2024/04/21/FinalProject.html" rel="alternate" type="text/html" title="Exploring Mental Health" /><published>2024-04-21T17:40:00+02:00</published><updated>2024-04-21T17:40:00+02:00</updated><id>http://localhost:4000/data/mental%20health/2024/04/21/FinalProject</id><content type="html" xml:base="http://localhost:4000/data/mental%20health/2024/04/21/FinalProject.html">&lt;p&gt;Mental illnesses are becoming increasingly common worldwide. Depression is among the most prevalent mental health disorders impacting adults globally, and its rising rates across the general population have elevated it to a serious public health issue (1). One of the countries that suffers from a high depression rate is Greenland.&lt;/p&gt;
+
+&lt;p&gt;Greenland has undergone significant social and political transformations since World War II, resulting in considerable changes in its society. These transformations have influenced the mental health of its population, with depression becoming a major concern.&lt;/p&gt;
+
+&lt;p&gt;In Greenland, the healthcare system is challenged by a lack of qualified healthcare providers, financial constraints, and having to deliver high-quality treatments in a very large and sparsely populated country. Thus, accurately estimating the prevalence of depression and understanding its potential relations with other factors remains challenging.&lt;/p&gt;
+
+&lt;p&gt;How does Greenland’s situation compare to other countries? What factors might explain these differences? How is depression distributed across the population, and are there any clear trends or patterns that reveal the unique challenges and dynamics of depression prevalence in Greenland? To explore these questions, we will use data visualisation techniques.&lt;/p&gt;
+
+&lt;p&gt;To set the stage for our analysis of Greenland’s data, we begin by providing a snapshot of the global landscape of depression prevalence through a choropleth map (Figure 1). It allows for an examination of the annual prevalence of depression worldwide from 1990 to 2017, highlighting countries with both the highest and lowest rates of depression. However, it is worth noting that depression cases may be underreported in many countries due to social stigma or due to limited resources and effects put in when carrying out surveys and studies.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;iframe src=&quot;/assets/images/depression_world_map.html&quot; width=&quot;1000&quot; height=&quot;520&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;Figure 1: Interactive World Heatmap of Depression Prevalence from 1990 to 2017.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;As can be unfolded, Greenland consistently stands out with the highest depression prevalence rates. Illustrated in Figure 2, although there are fluctuations and a general downward trend in depression rate in Greenland, it is still considerably higher than the Europe and world averages. From 2014 to 2017, where it can be seen a decreasing pattern in depression prevalence, the Greenlandic government implemented various initiatives to address mental health issues. For example, the Ministry of Education, Culture, Research, and Church included provisions in their plan to offer psychological therapy for students (2). Additionally, since 2010, the Ministry of Health of Greenland has implemented a national intervention called “Early Intervention,” which aims to reduce the risk of children developing behavioral, mental, or physical health problems, or encountering difficulties in school (2).&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/greevsworld.png&quot; alt=&quot;timeSeries&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Figure 2: Time Series Graph of Depression Prevalence in Greenland (Red) and the Global Average (Gray).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Before exploring the data from Greenland, let’s examine how depressive disorder is related to other disorders. Figure 3 presents a correlation heatmap, which shows correlations of each disorder with others. As can be seen, depression is positively correlated with anxiety disorders and drug use disorders, with correlation values of 0.38 and 0.37, respectively. These notable correlations warrant further investigation. Additionally, it would be useful to understand Greenland’s position in comparison to Europe and world averages for various disorders.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;iframe src=&quot;/assets/images/correlation_heatmap_general.html&quot; width=&quot;600&quot; height=&quot;600&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;Figure 3: Interactive Heatmap showing the Correlation of Global Depression Prevalence with other Mental Disorders.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Compared to the average rates observed in Europe and worldwide over the last decades, striking trends in the prevalence of different disorders in Greenland can be seen in Figure 4. Greenland consistently exhibits higher rates in various disorders. In particular, prevalence of alcohol and drug use disorders in Greenland is twice the average of the European countries. According to authorities, risky use of alcohol and marihuana are one of the most important public health challenges in Greenland (3). Also, previous studies suggest that, in Greenland, the major alcohol-related problem was that a large proportion of the population indulged in repeated acute alcohol intoxication and not as in Denmark chronic alcoholism (4).&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/trends_disorders_comparisom.png&quot; alt=&quot;timeSeries&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Figure 4: Time series graph showing the changes in Alcohol Use, Anxiety, and Drug Use disorders prevalence in Greenland against the European average and global average from 1990 to 2017.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Based on this, now we focus on the data of Greenland in particular, since identifying high-risk groups is essential for creating targeted public health interventions. Can there be variations in the prevalence of depressive disorders among different groups within the Greenlandic population? A 2014 study by the World Health Organization (WHO) underscored gender-specific trends in Greenland, noting that women reported higher levels of depression, nervousness, and sleep difficulties than men (5). As depicted in Figure 5, the prevalence of depression among females has consistently been approximately twice as high as among males. However, recent data indicates a promising trend of decreasing the prevalence, suggesting potential improvements in interventions targeting the female population.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/malevsfe.png&quot; alt=&quot;timeSeries&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Figure 5: Time Series Graph showing the changes in Depression Prevalence in Greenland over time for males and females.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;When investigating the causes, a multivariate analysis of Greenlanders aged 18–59 identified significant predictors of depressive symptoms: unemployment among men and, for women, experiences of sexual abuse (6). Additionally, studies have suggested that the prevalence of childhood sexual abuse in Greenlandic females might be among the highest in the world (7). The impact of sexual abuse on the social and emotional well-being of children, as well as their development, is increasingly well understood. Furthermore, there is a documented link between the trauma of childhood sexual abuse and higher rates of various psychological and social challenges in adulthood, including depression.&lt;/p&gt;
+
+&lt;p&gt;In general, older individual groups are the ones who are more vulnerable to suffer from depression. However, as demonstrated in Figure 6, the population aged 20-24 consistently shows the highest prevalence rate, confirming the persistent nature of the heightened vulnerability of younger individuals in Greenland.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;iframe src=&quot;/assets/images/depression_prevalence_by_age.html&quot; width=&quot;700&quot; height=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;Figure 6: Interactive Bar Chart showing the distribution of Depression Prevalence over different age groups in Greenland over the years.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;We have observed worldwide correlations among disorders and noted that in Greenland, alcohol use disorders, drug use disorders, and anxiety disorders significantly exceed the averages in Europe and globally. Given these observed patterns, it becomes increasingly plausible to suggest a potential correlation between these elevated rates of alcohol and drug disorders and the rates of depression, and maybe suicide in Greenland. How do these disorders correlate within Greenland itself? Could there be underlying connections between them?&lt;/p&gt;
+
+&lt;p&gt;Surprisingly, in Figure 7, we observe that the correlation patterns of disorders in Greenland diverge significantly from global trends. In Greenland, we see a decrease in depression rates over time, while both anxiety and drug use are on the rise. This discrepancy might suggest that while there is a significant focus on the high rates of depression, other disorders may have been neglected. Moreover, while no correlation between alcohol use and depression is observed globally, in Greenland specifically, both are seen to follow a declining trend over time.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;iframe src=&quot;/assets/images/depression_correlation_green.html&quot; width=&quot;800&quot; height=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;Figure 7: Interactive scatter plots of the Prevalence of Depression against Alcohol Use, Anxiety, and Drug Use Disorders in Greenland (1990-2017).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;In conclusion, our journey through the data has illuminated the complex landscape of depression and mental health in Greenland. This project reveals and highlights intriguing trends and correlations. Notably, women consistently report higher levels of depression, while younger age groups, particularly those aged 20-24, appear most vulnerable. Furthermore, the correlation between depression and other disorders diverges from global patterns, suggesting unique dynamics within Greenland’s population.&lt;/p&gt;
+
+&lt;p&gt;Understanding these nuances is crucial for devising targeted interventions that address the multifaceted nature of mental health challenges in Greenland. Moving forward, holistic approaches that consider social, cultural, and economic factors alongside individual experiences are essential for fostering resilience and improving mental well-being in Greenlandic communities.&lt;/p&gt;
+
+&lt;p&gt;As we continue to delve deeper into the data and collaborate across disciplines, we can hope to pave the way for more effective policies and support systems that promote mental health and resilience for all residents of Greenland.&lt;/p&gt;
+
+&lt;p&gt;Through ongoing research and data-driven insights, we can strive towards a future where mental health disparities are addressed, and every individual has access to the care and support they need to thrive.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hidaka, B. H. (2012). Depression as a disease of modernity: explanations for increasing prevalence. Journal of affective disorders, 140(3), 205-214.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Karsberg, S. (2016). Mental health among youth in Greenland: Who is responsible? What is being done?.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bjerregaard, P., Larsen, C. V., Sørensen, I. K., &amp;amp; Tolstrup, J. S. (2020). Alcohol in Greenland 1950-2018: consumption, drinking patterns, and consequences. International journal of circumpolar health, 79(1), 1814550.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Clemmesen, C. (1958). Oversigt over alkoholproblemet på Grønland [Overview of the alcohol problem in Greenland. In Danish]. Ugeskr Læger, 120, 1374–1379.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bjerregaard, P., &amp;amp; Curtis, T. (2002). Cultural change and mental health in Greenland: the association of childhood conditions, language, and urbanization with mental health and suicidal thoughts among the Inuit of Greenland. Social Science &amp;amp; Medicine, 54(1), 33-48.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Baviskar, S., &amp;amp; Christensen, E. (2011). Childhood sexual abuse of women in Greenland and its developmental correlates among their children. International Journal of Circumpolar Health, 70(1), 29-36.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="Data" /><category term="Mental Health" /><summary type="html">Mental illnesses are becoming increasingly common worldwide. Depression is among the most prevalent mental health disorders impacting adults globally, and its rising rates across the general population have elevated it to a serious public health issue (1). One of the countries that suffers from a high depression rate is Greenland.</summary></entry><entry><title type="html">San Francisco: Addressing Vehicle Theft Problems</title><link href="http://localhost:4000/data/visualization/storytelling/2024/03/23/Week-8-Storytelling.html" rel="alternate" type="text/html" title="San Francisco: Addressing Vehicle Theft Problems" /><published>2024-03-23T16:40:00+01:00</published><updated>2024-03-23T16:40:00+01:00</updated><id>http://localhost:4000/data/visualization/storytelling/2024/03/23/Week-8-Storytelling</id><content type="html" xml:base="http://localhost:4000/data/visualization/storytelling/2024/03/23/Week-8-Storytelling.html">&lt;p&gt;San Francisco, renowned for its Golden Gate Bridge, faced high crime rates in the 2000s, particularly auto theft. We analyzed the San Francisco Police Dataset (2003–2017), which contains records of reported incidents within the city, such as the crime type, location, date, and time. By analyzing this dataset, we aimed to find potential correlations in the evolution of vehicle theft data and the political and social situation of San Francisco.&lt;/p&gt;
+
+&lt;p&gt;Despite privacy concerns, 68 CCTV cameras were installed in the city since 2005 [1]. However, based on the data, we suggest that the installation of CCTV actually had an impact on the number of vehicle thefts, reducing them. Our reasoning is that although the system doesn’t actively contribute to reducing crime, it may have an impact on non-violent crimes. This hypothesis is suggested by Figure 1, which reflects a significant difference in the number of reported vehicle thefts after 2005 when CCTV was initially installed in San Francisco. The number of reported vehicle thefts continued to decrease until 2010, subsequently increasing but not matching the levels observed before the introduction of CCTV.&lt;/p&gt;
+
+&lt;p&gt;Figure 2 illustrates the variation in vehicle thefts across different districts in San Francisco from 2005 to 2006. The intensity of red shading corresponds to the relative decrease in stolen vehicles within each district compared to 2005. Overall, there was a significant disparity in vehicle theft, ranging from -64% to -56% compared to the previous year. Interestingly, this pattern aligns with the areas of highest police focus, where additional surveillance cameras were strategically placed to prevent vehicle theft in the Tenderloin, Park, and Taraval districts. Notably, these camera positions correlate closely with the observed changes in theft rates [2].&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/TimeSeries_v2.png&quot; alt=&quot;timeSeries&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Figure 1: Line graph representing the number of vehicle thefts in San Francisco, before and after the installation of the CCTV system.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/heatmap_v2.png&quot; alt=&quot;heatmap&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Figure 2: Heatmap showing Vehicle Theft difference from 2005 to 2006 by Police District in San Francisco.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;iframe src=&quot;/assets/images/MultiLineNorm.html&quot; width=&quot;630&quot; height=&quot;405&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;Figure 3: Multi-line interactive graph illustrating the normalized incidence of vehicle thefts across various districts in San Francisco from 2003 to 2017&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;According to Figure 3, the Tenderloin district consistently emerges as the safest area with regards to vehicle theft, which as discussed before, showed the biggest reduction in reported auto thefts after the CCTV installation in 2005. This observation may seem unexpected, considering the reputation of the Tenderloin district among others in the center such as Mission, for its prevalence of crimes, which may be mainly by violent crimes. On the other hand, the Ingleside district generally exhibits the highest ratio of vehicle thefts, positioning it as one of the least secure areas in this regard, probably due to its proximity to access points to major highways. However, it is important to point out that, following a rise in vehicle thefts starting in 2011, Ingleside reached its peak in 2014 before declining gradually.&lt;/p&gt;
+
+&lt;p&gt;It is indeed noteworthy that the number of vehicle thefts peaked in 2015 across several districts, including Mission and Northern. We propose that this surge may be linked to justice reforms. Specifically, in November 2014, Proposition 47 was introduced, which downgraded certain nonviolent felonies to misdemeanors [3]. However, this change sparked controversy, and definitive conclusions regarding the impact of justice reforms on crime rates remain elusive.&lt;/p&gt;
+
+&lt;p&gt;In conclusion, our analysis of the San Francisco Police Dataset revealed intriguing insights into the impact of CCTV installation on vehicle theft rates in the city. Despite initial concerns and opposition, manifesting the inefficacy of this system, the beginning of the installation of CCTV cameras coincided with a noticeable reduction in reported vehicle thefts, suggesting a potential deterrent effect on non-violent crimes such as these. Our analysis, based on geolocated data, suggests that the installation of the CCTV had a big impact from 2005 to 2006 in districts such as Tenderloin or Park, which are known for having a high affluence of vehicles, and thus, targets for this type of crimes.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, the multi-line interactive graph in Figure 3 illustrates how the introduction of CCTV contributed to reduce the number of vehicle thefts across different districts over time. Tenderloin district exhibits the most significant decline in thefts post-CCTV installation. However, challenges remain, as evidenced by fluctuations in theft rates observed post-2010 and the persistent high incidence in districts like Ingleside. This underscores the need for continued evaluation and adaptation of surveillance strategies alongside complementary crime prevention measures to ensure sustained improvements in public safety throughout San Francisco.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;[1] Knight, Heather (2008, March 21). “Crime cameras not capturing many crimes” San Francisco Chronicle.&lt;/p&gt;
+
+&lt;p&gt;[2] Google Maps. (23/03/2024). Community Cameras in San Francisco. Retrieved from &lt;a href=&quot;https://www.google.com/maps/d/viewer?mid=1gn9aYH09MHPQk7YD9EbOwg_sGJEFtefN&amp;amp;hl=en_US&amp;amp;ll=37.75638790588526%2C-122.3895447&amp;amp;z=13&quot;&gt;https://www.google.com/maps/d/viewer?mid=1gn9aYH09MHPQk7YD9EbOwg_sGJEFtefN&amp;amp;hl=en_US&amp;amp;ll=37.75638790588526%2C-122.3895447&amp;amp;z=13&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[3] Ho, Vivian &amp;amp; Veklerov, Kimberly (2016, March 16). “SF car break-ins up 31 percent, nearly triple in 5 years” San Francisco Chronicle.&lt;/p&gt;</content><author><name></name></author><category term="Data" /><category term="Visualization" /><category term="Storytelling" /><summary type="html">San Francisco, renowned for its Golden Gate Bridge, faced high crime rates in the 2000s, particularly auto theft. We analyzed the San Francisco Police Dataset (2003–2017), which contains records of reported incidents within the city, such as the crime type, location, date, and time. By analyzing this dataset, we aimed to find potential correlations in the evolution of vehicle theft data and the political and social situation of San Francisco.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2024/03/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-03-10T19:14:21+01:00</published><updated>2024-03-10T19:14:21+01:00</updated><id>http://localhost:4000/jekyll/update/2024/03/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/03/10/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
