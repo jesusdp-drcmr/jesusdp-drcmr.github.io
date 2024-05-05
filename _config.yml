@@ -9,7 +9,7 @@ github_username: jesusdp-drcmr
 
 # Build settings
 # Theme
-theme : jekyll-theme-cayman-blog
+theme : jekyll-theme-cayman
 
 plugins:
   - jekyll-feed
