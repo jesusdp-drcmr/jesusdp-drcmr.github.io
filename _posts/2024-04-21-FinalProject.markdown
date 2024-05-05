@@ -7,6 +7,8 @@ categories:
   - Mental Health
 ---
 
+<div style="text-align: justify;">
+
 Mental illnesses are becoming increasingly common worldwide. Depression is among the most prevalent mental health disorders impacting adults globally, and its rising rates across the general population have elevated it to a serious public health issue (1). One of the countries that suffers from a high depression rate is Greenland.
 
 Greenland has undergone significant social and political transformations since World War II, resulting in considerable changes in its society. These transformations have influenced the mental health of its population, with depression becoming a major concern.
@@ -18,11 +20,11 @@ How does Greenland's situation compare to other countries? What factors might ex
 To set the stage for our analysis of Greenland's data, we begin by providing a snapshot of the global landscape of depression prevalence through a choropleth map (Figure 1). It allows for an examination of the annual prevalence of depression worldwide from 1990 to 2017, highlighting countries with both the highest and lowest rates of depression. However, it is worth noting that depression cases may be underreported in many countries due to social stigma or due to limited resources and effects put in when carrying out surveys and studies.
 
 
-
 &nbsp;
-
+<div style="text-align: center;">
 <iframe src="/assets/images/depression_world_map.html" width="1000" height="520"></iframe>
 *Figure 1: Interactive World Heatmap of Depression Prevalence from 1990 to 2017.*
+</div>
 
 &nbsp;
 
