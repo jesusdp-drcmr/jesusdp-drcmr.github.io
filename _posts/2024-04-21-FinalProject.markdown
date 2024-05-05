@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Exploring Mental Health"
 date: 2024-04-21 16:40:00 +0100
 categories: 

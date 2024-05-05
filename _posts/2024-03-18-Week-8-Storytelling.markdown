@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "San Francisco: Addressing Vehicle Theft Problems"
 date: 2024-03-23 16:40:00 +0100
 categories: 
