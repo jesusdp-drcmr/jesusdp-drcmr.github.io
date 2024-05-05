@@ -9,17 +9,7 @@ github_username: jesusdp-drcmr
 
 # Build settings
 # Theme
-remote_theme: "pages-themes/cayman"
-
-# Navigation menu
-nav:
-  - label: Home
-    url: /
-  - label: About
-    url: /about.html
-  - label: Blog
-    url: /blog/
-  # Add more entries as needed
+theme : minima
 
 plugins:
   - jekyll-feed
