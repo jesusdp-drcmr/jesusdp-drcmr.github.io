@@ -22,7 +22,7 @@ To set the stage for our analysis of Greenland's data, we begin by providing a s
 &nbsp;
 
 <iframe src="/assets/images/depression_world_map.html" width="1000" height="520"></iframe>
-*Figure 1: Depression Prevalence. *
+*Figure 1: Interactive World Heatmap of Depression Prevalence from 1990 to 2017.*
 
 &nbsp;
 
@@ -31,7 +31,7 @@ As can be unfolded, Greenland consistently stands out with the highest depressio
 &nbsp;
 
 ![timeSeries](/assets/images/greevsworld.png)  
-*Figure 2: *
+*Figure 2: Time Series Graph of Depression Prevalence in Greenland (Red) and the Global Average (Gray).*
 
 &nbsp;
 
@@ -40,7 +40,7 @@ Before exploring the data from Greenland, let's examine how depressive disorder 
 &nbsp;
 
 <iframe src="/assets/images/correlation_heatmap_general.html" width="600" height="600"></iframe>
-*Figure 3 *
+*Figure 3: Interactive Heatmap showing the Correlation of Global Depression Prevalence with other Mental Disorders.*
 
 &nbsp;
 
@@ -49,7 +49,7 @@ Compared to the average rates observed in Europe and worldwide over the last dec
 &nbsp;
 
 ![timeSeries](/assets/images/trends_disorders_comparisom.png)  
-*Figure 4: *
+*Figure 4: Time series graph showing the changes in Alcohol Use, Anxiety, and Drug Use disorders prevalence in Greenland against the European average and global average from 1990 to 2017.*
 
 &nbsp;
 
@@ -58,7 +58,7 @@ Based on this, now we focus on the data of Greenland in particular, since identi
 &nbsp;
 
 ![timeSeries](/assets/images/malevsfe.png)  
-*Figure 5: *
+*Figure 5: Time Series Graph showing the changes in Depression Prevalence in Greenland over time for males and females.*
 
 &nbsp;
 
@@ -70,7 +70,7 @@ In general, older individual groups are the ones who are more vulnerable to suff
 &nbsp;
 
 <iframe src="/assets/images/depression_prevalence_by_age.html" width="700" height="500"></iframe>
-*Figure 6: *
+*Figure 6: Interactive Bar Chart showing the distribution of Depression Prevalence over different age groups in Greenland over the years.*
 
 &nbsp;
 
@@ -82,10 +82,18 @@ Surprisingly, in Figure 7, we observe that the correlation patterns of disorders
 &nbsp;
 
 <iframe src="/assets/images/depression_correlation_green.html" width="800" height="500"></iframe>
-*Figure 7: *
+*Figure 7: Interactive scatter plots of the Prevalence of Depression against Alcohol Use, Anxiety, and Drug Use Disorders in Greenland (1990-2017).*
 
 &nbsp;
 
+
+In conclusion, our journey through the data has illuminated the complex landscape of depression and mental health in Greenland. This project reveals and highlights intriguing trends and correlations. Notably, women consistently report higher levels of depression, while younger age groups, particularly those aged 20-24, appear most vulnerable. Furthermore, the correlation between depression and other disorders diverges from global patterns, suggesting unique dynamics within Greenland's population.
+
+Understanding these nuances is crucial for devising targeted interventions that address the multifaceted nature of mental health challenges in Greenland. Moving forward, holistic approaches that consider social, cultural, and economic factors alongside individual experiences are essential for fostering resilience and improving mental well-being in Greenlandic communities.
+
+As we continue to delve deeper into the data and collaborate across disciplines, we can hope to pave the way for more effective policies and support systems that promote mental health and resilience for all residents of Greenland.
+
+Through ongoing research and data-driven insights, we can strive towards a future where mental health disparities are addressed, and every individual has access to the care and support they need to thrive.
 
 
 **References**
@@ -104,7 +112,6 @@ Surprisingly, in Figure 7, we observe that the correlation patterns of disorders
 
 7. Baviskar, S., & Christensen, E. (2011). Childhood sexual abuse of women in Greenland and its developmental correlates among their children. International Journal of Circumpolar Health, 70(1), 29-36.
 
-8.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
