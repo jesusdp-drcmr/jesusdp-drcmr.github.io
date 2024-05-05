@@ -52,7 +52,7 @@ Compared to the average rates observed in Europe and worldwide over the last dec
 
 <br><br>
 <div style="text-align: center;">
-<img src="/assets/images/trends_disorders_comparisom.png" alt="Time series graph showing the changes in Alcohol Use, Anxiety, and Drug Use disorders prevalence in Greenland against the European average and global average from 1990 to 2017." width="1000">
+<img src="/assets/images/trends_disorders_comparisom.png" alt="Time series graph showing the changes in Alcohol Use, Anxiety, and Drug Use disorders prevalence in Greenland against the European average and global average from 1990 to 2017." width="1000" height="700">
 </div>
 
 <div style="text-align: center; font-style: italic;">
@@ -96,7 +96,7 @@ Surprisingly, in Figure 7, we observe that the correlation patterns of disorders
 Figure 7: Interactive scatter plots of the Prevalence of Depression against Alcohol Use, Anxiety, and Drug Use Disorders in Greenland (1990-2017).
 </div><br><br>
 
-In conclusion, our journey through the data has illuminated the complex landscape of depression and mental health in Greenland. This project reveals and highlights intriguing trends and correlations. Notably, women consistently report higher levels of depression, while younger age groups, particularly those aged 20-24, appear most vulnerable. Furthermore, the correlation between depression and other disorders diverges from global patterns, suggesting unique dynamics within Greenland's population. <br><br>
+In conclusion, with this project we studied the complex landscape of depression and mental health in Greenland during the past decades, revealing and highlighting intriguing trends and correlations that can be used to predict future patterns. Notably, women consistently report higher levels of depression, while younger age groups, particularly those aged 20-24, appear most vulnerable. Furthermore, the correlation between depression and other disorders diverges from global patterns, suggesting unique dynamics within Greenland's population. <br><br>
 
 Understanding these nuances is crucial for devising targeted interventions that address the multifaceted nature of mental health challenges in Greenland. Moving forward, holistic approaches that consider social, cultural, and economic factors alongside individual experiences are essential for fostering resilience and improving mental well-being in Greenlandic communities. <br><br>
 
