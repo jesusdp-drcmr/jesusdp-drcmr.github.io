@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Exploring Mental Health"
+title: "Mapping Depression in Greenland: Understanding Prevalence and Trends Through Data Visualization"
 date: 2024-04-21 16:40:00 +0100
 categories: 
   - Data
@@ -15,7 +15,8 @@ Greenland has undergone significant social and political transformations since W
 
 In Greenland, the healthcare system is challenged by a lack of qualified healthcare providers, financial constraints, and having to deliver high-quality treatments in a very large and sparsely populated country. Thus, accurately estimating the prevalence of depression and understanding its potential relations with other factors remains challenging. <br><br>
  
-How does Greenland's situation compare to other countries? What factors might explain these differences? How is depression distributed across the population, and are there any clear trends or patterns that reveal the unique challenges and dynamics of depression prevalence in Greenland? To explore these questions, we will use data visualisation techniques. <br><br>
+How does Greenland's situation compare to other countries? What factors might explain these differences? How is depression distributed across the population, and are there any clear trends or patterns that reveal the unique challenges and dynamics of depression prevalence in Greenland? 
+While certain National Health Surveys in Greenland touch upon mental health, there's a notable scarcity of studies specifically focused on depression. Thus, with this project we aim use data visualisation techniques to study depression among Greenland's population. <br><br>
 
 To set the stage for our analysis of Greenland's data, we begin by providing a snapshot of the global landscape of depression prevalence through a choropleth map (Figure 1). It allows for an examination of the annual prevalence of depression worldwide from 1990 to 2017, highlighting countries with both the highest and lowest rates of depression. However, it is worth noting that depression cases may be underreported in many countries due to social stigma or due to limited resources and effects put in when carrying out surveys and studies. <br><br>
 
@@ -74,7 +75,8 @@ Figure 5: Time Series Graph showing the changes in Depression Prevalence in Gree
 
 When investigating the causes, a multivariate analysis of Greenlanders aged 18–59 identified significant predictors of depressive symptoms: unemployment among men and, for women, experiences of sexual abuse (6). Additionally, studies have suggested that the prevalence of childhood sexual abuse in Greenlandic females might be among the highest in the world (7). The impact of sexual abuse on the social and emotional well-being of children, as well as their development, is increasingly well understood. Furthermore, there is a documented link between the trauma of childhood sexual abuse and higher rates of various psychological and social challenges in adulthood, including depression. <br><br>
 
-In general, older individual groups are the ones who are more vulnerable to suffer from depression. However, as demonstrated in Figure 6, the population aged 20-24 consistently shows the highest prevalence rate, confirming the persistent nature of the heightened vulnerability of younger individuals in Greenland. <br><br>
+In general, older individual groups are the ones who are more vulnerable to suffer from depression. However, as demonstrated in Figure 6, the population aged 20-24 consistently shows the highest prevalence rate across the years, confirming the persistent nature of the heightened vulnerability of younger individuals in Greenland. 
+The findings from Karsberg, Armour, and Elklit (8) indicate that young Greenlandic individuals encountered a spectrum of traumatic events, encompassing physical assault, rape, threats of violence, physical abuse, childhood sexual abuse, neglect, and bullying. These collective factors may contribute to the elevated prevalence observed within this demographic group.<br><br>
 
 <div style="text-align: center;">
 <iframe src="/assets/images/depression_prevalence_by_age.html" width="700" height="500"></iframe>
@@ -83,6 +85,7 @@ In general, older individual groups are the ones who are more vulnerable to suff
 <div style="text-align: center; font-style: italic;">
 Figure 6: Interactive Bar Chart showing the distribution of Depression Prevalence over different age groups in Greenland over the years.
 </div><br><br>
+
 
 We have observed worldwide correlations among disorders and noted that in Greenland, alcohol use disorders, drug use disorders, and anxiety disorders significantly exceed the averages in Europe and globally. Given these observed patterns, it becomes increasingly plausible to suggest a potential correlation between these elevated rates of alcohol and drug disorders and the rates of depression, and maybe suicide in Greenland. How do these disorders correlate within Greenland itself? Could there be underlying connections between them? <br><br>
 
@@ -102,8 +105,8 @@ Understanding these nuances is crucial for devising targeted interventions that 
 
 As we continue to delve deeper into the data and collaborate across disciplines, we can hope to pave the way for more effective policies and support systems that promote mental health and resilience for all residents of Greenland. Through ongoing research and data-driven insights, we can strive towards a future where mental health disparities are addressed, and every individual has access to the care and support they need to thrive. <br><br>
 
+Bibliography
 
-**References**
 <br><br>
 1. Hidaka, B. H. (2012). Depression as a disease of modernity: explanations for increasing prevalence. Journal of affective disorders, 140(3), 205-214. <br><br>
 
@@ -118,3 +121,5 @@ As we continue to delve deeper into the data and collaborate across disciplines,
 6. Bjerregaard, P., & Curtis, T. (2002). Cultural change and mental health in Greenland: the association of childhood conditions, language, and urbanization with mental health and suicidal thoughts among the Inuit of Greenland. Social Science & Medicine, 54(1), 33-48.<br><br>
 
 7. Baviskar, S., & Christensen, E. (2011). Childhood sexual abuse of women in Greenland and its developmental correlates among their children. International Journal of Circumpolar Health, 70(1), 29-36.<br><br>
+
+8. Curtis, T., Larsen, F. B., Helweg-Larsen, K., & Bjerregaard, P. (2002). Violence, sexual abuse and health in Greenland. International journal of circumpolar health, 61(2), 110-122.<br><br>
