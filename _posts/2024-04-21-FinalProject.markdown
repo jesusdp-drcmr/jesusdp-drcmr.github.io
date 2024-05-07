@@ -54,7 +54,7 @@ Figure 3: Interactive Heatmap showing the Correlation of Global Depression Preva
 Compared to the average rates observed in Europe and worldwide over the last decades, striking trends in the prevalence of different disorders in Greenland can be seen in Figure 4. Greenland consistently exhibits higher rates in various disorders. In particular, prevalence of alcohol and drug use disorders in Greenland is twice the average of the European countries. According to authorities, risky use of alcohol and marihuana are one of the most important public health challenges in Greenland (Bjerregaard, Larsen, Sørensen, & Tolstrup, 2020)
 . <br><br>
 
-Also, previous studies suggest that, in Greenland, the major alcohol-related problem was that a large proportion of the population indulged in repeated acute alcohol intoxication and not as in Denmark chronic alcoholism (Clemmesen, 1958).  Previous study revealed that binge drinkers are more likely to have symptoms of depression (Lannoy et al., 2021). Thus, one would suggest that depression prevalence in Greenland could be caused, or at least, correlated with the higher prevalence of alcohol use disorders.  
+Also, studies suggest that, in Greenland, the major alcohol-related problem was that a large proportion of the population indulged in repeated acute alcohol intoxication and not as in Denmark chronic alcoholism (Clemmesen, 1958).  Previous work, revealed that binge drinkers are more likely to have symptoms of depression (Lannoy et al., 2021). Thus, one would suggest that depression prevalence in Greenland could be caused, or at least, correlated with the higher prevalence of alcohol use disorders.  
 
 <br><br>
 <div style="text-align: center;">
@@ -84,7 +84,7 @@ When investigating the causes, a multivariate analysis of Greenlanders aged 18�
 . The impact of sexual abuse on the social and emotional well-being of children, as well as their development, is increasingly well understood. Furthermore, there is a documented link between the trauma of childhood sexual abuse and higher rates of various psychological and social challenges in adulthood, including depression. <br><br>
 
 In general, older individual groups are the ones who are more vulnerable to suffer from depression. However, as demonstrated in Figure 6, the population aged 20-24 consistently shows the highest prevalence rate across the years, confirming the persistent nature of the heightened vulnerability of younger individuals in Greenland. 
-Previous studies (Curtis, Larsen, Helweg-Larsen, & Bjerregaard, 2002) indicate that young Greenlandic individuals encountered a spectrum of traumatic events, encompassing physical assault, rape, threats of violence, physical abuse, childhood sexual abuse, neglect, and bullying. These collective factors may contribute to the elevated prevalence observed within this demographic group.<br><br>
+Previous studies (Curtis et al., 2002) indicate that young Greenlandic individuals encountered a spectrum of traumatic events, encompassing physical assault, rape, threats of violence, physical abuse, childhood sexual abuse, neglect, and bullying. These collective factors may contribute to the elevated prevalence observed within this demographic group.<br><br>
 
 <div style="text-align: center;">
 <iframe src="/assets/images/depression_prevalence_by_age_2.html" width="700" height="500"></iframe>
@@ -107,7 +107,7 @@ Surprisingly, in Figure 7, we observe that the correlation patterns of disorders
 Figure 7: Interactive scatter plots of the Prevalence of Depression against Alcohol Use, Anxiety, and Drug Use Disorders in Greenland (1990-2017).
 </div><br><br>
 
-We have investigated the relationships between high depressive disorder rates and other mental and behavioral disorders in Greenland. But what if there's also a relationship between depression and suicide rates? Numerous studies support this connection. For instanc,e it was found that 70% of individuals who attempt suicide experience depressive symptoms at the time of the attempt (Olié, Travers, & Lopez-Castroman, 2016). Similarly, Oyama and Sakashita (Oyama & Sakashita, 2017)
+We have investigated the relationships between high depressive disorder rates and other mental and behavioral disorders in Greenland. But what if there's also a relationship between depression and suicide rates? Numerous studies support this connection. For instance, it was found that 70% of individuals who attempt suicide experience depressive symptoms at the time of the attempt (Olié et al., 2016). Similarly, Oyama and Sakashita (Oyama & Sakashita, 2017)
 concluded that screening for depression alone was linked to reduced suicide rates in a community sample of middle-aged adults in Japan. They advocate for widespread depression screening within communities as a potential intervention for suicide prevention, emphasizing the importance of identifying at-risk individuals through psychological assessments. Furthermore, Olfson et al. (Olfson et al., 2016) reported that among inpatients with primary diagnoses of mental disorders, a discharge diagnosis of depression was associated with the highest short-term risk for suicide. Given this, it's crucial to investigate suicide rates in Greenland, where depression rates are considerably high.
 
 Figure 8 shows that in the early 1990s, the suicide rate in Greenland was almost eight times the global average. Although this rate has steadily declined, the gap remains significant. <br><br>
@@ -138,7 +138,10 @@ Understanding these nuances is crucial for devising targeted interventions that 
 
 As we continue to delve deeper into the data and collaborate across disciplines, we can hope to pave the way for more effective policies and support systems that promote mental health and resilience for all residents of Greenland. Through ongoing research and data-driven insights, we can strive towards a future where mental health disparities are addressed, and every individual has access to the care and support they need to thrive. <br><br>
 
+<div font-style: bold;">
 Bibliography
+</div>
+
 
 <br><br>
 Baviskar, S., & Christensen, E. (2011). Childhood sexual abuse of women in Greenland and its developmental correlates among their children. International Journal of Circumpolar Health, 70(1), 29-36.<br><br>
@@ -164,3 +167,7 @@ Olié, E., Travers, D., & Lopez-Castroman, J. (2016). Key features of suicidal b
 Olfson, M., Wall, M., Wang, S., Crystal, S., Liu, S. M., Gerhard, T., & Blanco, C. (2016). Short-term suicide risk after psychiatric hospital discharge. JAMA psychiatry, 73(11), 1119-1126.<br><br>
 
 Oyama, H., & Sakashita, T. (2017). Community-based screening intervention for depression affects suicide rates among middle-aged Japanese adults. Psychological medicine, 47(8), 1500-1509.
+
+<div font-style: bold;">
+Explanatory Notebook
+</div>
