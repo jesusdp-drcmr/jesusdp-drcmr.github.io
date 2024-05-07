@@ -138,7 +138,7 @@ Understanding these nuances is crucial for devising targeted interventions that 
 
 As we continue to delve deeper into the data and collaborate across disciplines, we can hope to pave the way for more effective policies and support systems that promote mental health and resilience for all residents of Greenland. Through ongoing research and data-driven insights, we can strive towards a future where mental health disparities are addressed, and every individual has access to the care and support they need to thrive. <br><br>
 
-<div font-style: bold;">
+<div style="text-align: justify; font-weight: bold;">
 Bibliography
 </div>
 
@@ -168,6 +168,7 @@ Olfson, M., Wall, M., Wang, S., Crystal, S., Liu, S. M., Gerhard, T., & Blanco, 
 
 Oyama, H., & Sakashita, T. (2017). Community-based screening intervention for depression affects suicide rates among middle-aged Japanese adults. Psychological medicine, 47(8), 1500-1509.
 
-<div font-style: bold;">
+<br><br>
+<div style="text-align: justify; font-weight: bold;">
 Explanatory Notebook: https://github.com/jesusdp-drcmr/jesusdp-drcmr.github.io/blob/2d7ea5ba76799617ebaff620adb5a9bc207a3f45/Explainer_Notebook_FinalProject.ipynb
 </div>
