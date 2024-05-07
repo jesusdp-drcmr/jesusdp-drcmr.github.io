@@ -87,7 +87,7 @@ In general, older individual groups are the ones who are more vulnerable to suff
 Previous studies (Curtis, Larsen, Helweg-Larsen, & Bjerregaard, 2002) indicate that young Greenlandic individuals encountered a spectrum of traumatic events, encompassing physical assault, rape, threats of violence, physical abuse, childhood sexual abuse, neglect, and bullying. These collective factors may contribute to the elevated prevalence observed within this demographic group.<br><br>
 
 <div style="text-align: center;">
-<iframe src="/assets/images/depression_prevalence_by_age.html" width="700" height="500"></iframe>
+<iframe src="/assets/images/depression_prevalence_by_age_2.html" width="700" height="500"></iframe>
 </div>
 
 <div style="text-align: center; font-style: italic;">
@@ -100,7 +100,7 @@ We have observed worldwide correlations among disorders and noted that in Greenl
 Surprisingly, in Figure 7, we observe that the correlation patterns of disorders in Greenland diverge significantly from global trends. In Greenland, we see a decrease in depression rates over time, while both anxiety and drug use are on the rise. This discrepancy might suggest that while there is a significant focus on the high rates of depression, other disorders may have been neglected. Moreover, while no correlation between alcohol use and depression is observed globally, in Greenland specifically, both are seen to follow a declining trend over time. <br><br>
 
 <div style="text-align: center;">
-<iframe src="/assets/images/depression_correlation_green.html" width="800" height="500"></iframe>
+<iframe src="/assets/images/depression_correlation_green_2.html" width="800" height="500"></iframe>
 </div>
 
 <div style="text-align: center; font-style: italic;">
@@ -110,10 +110,10 @@ Figure 7: Interactive scatter plots of the Prevalence of Depression against Alco
 We have investigated the relationships between high depressive disorder rates and other mental and behavioral disorders in Greenland. But what if there's also a relationship between depression and suicide rates? Numerous studies support this connection. For instanc,e it was found that 70% of individuals who attempt suicide experience depressive symptoms at the time of the attempt (Olié, Travers, & Lopez-Castroman, 2016). Similarly, Oyama and Sakashita (Oyama & Sakashita, 2017)
 concluded that screening for depression alone was linked to reduced suicide rates in a community sample of middle-aged adults in Japan. They advocate for widespread depression screening within communities as a potential intervention for suicide prevention, emphasizing the importance of identifying at-risk individuals through psychological assessments. Furthermore, Olfson et al. (Olfson et al., 2016) reported that among inpatients with primary diagnoses of mental disorders, a discharge diagnosis of depression was associated with the highest short-term risk for suicide. Given this, it's crucial to investigate suicide rates in Greenland, where depression rates are considerably high.
 
-Figure 8 shows that in the early 1990s, the suicide rate in Greenland was almost eight times the global average. Although this rate has steadily declined, the gap remains significant. 
+Figure 8 shows that in the early 1990s, the suicide rate in Greenland was almost eight times the global average. Although this rate has steadily declined, the gap remains significant. <br><br>
 
 <div style="text-align: center;">
-<iframe src="/assets/images/suicide_rates.png" width="800" height="500"></iframe>
+<iframe src="/assets/images/suicide_rate.png" width="800" height="500"></iframe>
 </div>
 
 <div style="text-align: center; font-style: italic;">
@@ -123,7 +123,7 @@ Figure 8: Time series graph showing the changes in Suicide Rates in Greenland ag
 However, this may also remind us that the rate of depression in Greenland has decreased over the years. As shown in Figure 9, both depression and suicide rates have declined in Greenland over the years. Considering these research findings, it seems inevitable to conclude that these factors are related. <br><br>
 
 <div style="text-align: center;">
-<iframe src="/assets/images/suicide_corr.html" width="800" height="500"></iframe>
+<iframe src="/assets/images/suicide_corr_2.html" width="800" height="500"></iframe>
 </div>
 
 <div style="text-align: center; font-style: italic;">
