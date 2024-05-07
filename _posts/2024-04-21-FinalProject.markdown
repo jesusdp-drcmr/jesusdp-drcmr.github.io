@@ -113,7 +113,7 @@ concluded that screening for depression alone was linked to reduced suicide rate
 Figure 8 shows that in the early 1990s, the suicide rate in Greenland was almost eight times the global average. Although this rate has steadily declined, the gap remains significant. <br><br>
 
 <div style="text-align: center;">
-<iframe src="/assets/images/suicide_rate.png" width="800" height="500"></iframe>
+<iframe src="/assets/images/suicide_rate.png"></iframe>
 </div>
 
 <div style="text-align: center; font-style: italic;">
