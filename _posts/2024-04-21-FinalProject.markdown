@@ -18,7 +18,7 @@ In Greenland, the healthcare system is challenged by a lack of qualified healthc
 How does Greenland's situation compare to other countries? What factors might explain these differences? How is depression distributed across the population, and are there any clear trends or patterns that reveal the unique challenges and dynamics of depression prevalence in Greenland? 
 While certain National Health Surveys in Greenland touch upon mental health, there's a notable scarcity of studies specifically focused on depression. Thus, with this project we aim use data visualisation techniques to study depression among Greenland's population. <br><br>
 
-To set the stage for our analysis of Greenland's data, we begin by providing a snapshot of the global landscape of depression prevalence through a choropleth map (Figure 1). It allows for an examination of the annual prevalence of depression worldwide from 1990 to 2017, highlighting countries with both the highest and lowest rates of depression. However, it is worth noting that depression cases may be underreported in many countries due to social stigma or due to limited resources and effects put in when carrying out surveys and studies. <br><br>
+To set the stage for our analysis of Greenland's data, we begin by providing a snapshot of the global landscape of depression prevalence through a choropleth map as seen in Figure 1. It allows for an examination of the annual prevalence of depression worldwide from 1990 to 2017, highlighting countries with both the highest and lowest rates of depression. However, it is worth noting that depression cases may be underreported in many countries due to social stigma or due to limited resources and effects put in when carrying out surveys and studies. <br><br>
 
 
 <div style="text-align: center;">
@@ -113,7 +113,7 @@ concluded that screening for depression alone was linked to reduced suicide rate
 Figure 8 shows that in the early 1990s, the suicide rate in Greenland was almost eight times the global average. Although this rate has steadily declined, the gap remains significant. <br><br>
 
 <div style="text-align: center;">
-<iframe src="/assets/images/suicide_rate.png"></iframe>
+<iframe src="/assets/images/suicide_rate.png" width="500" height="300"></iframe>
 </div>
 
 <div style="text-align: center; font-style: italic;">
