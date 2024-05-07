@@ -169,5 +169,5 @@ Olfson, M., Wall, M., Wang, S., Crystal, S., Liu, S. M., Gerhard, T., & Blanco, 
 Oyama, H., & Sakashita, T. (2017). Community-based screening intervention for depression affects suicide rates among middle-aged Japanese adults. Psychological medicine, 47(8), 1500-1509.
 
 <div font-style: bold;">
-Explanatory Notebook
+Explanatory Notebook: https://github.com/jesusdp-drcmr/jesusdp-drcmr.github.io/blob/2d7ea5ba76799617ebaff620adb5a9bc207a3f45/Explainer_Notebook_FinalProject.ipynb
 </div>
