@@ -167,8 +167,7 @@ Olié, E., Travers, D., & Lopez-Castroman, J. (2016). Key features of suicidal b
 Olfson, M., Wall, M., Wang, S., Crystal, S., Liu, S. M., Gerhard, T., & Blanco, C. (2016). Short-term suicide risk after psychiatric hospital discharge. JAMA psychiatry, 73(11), 1119-1126.<br><br>
 
 Oyama, H., & Sakashita, T. (2017). Community-based screening intervention for depression affects suicide rates among middle-aged Japanese adults. Psychological medicine, 47(8), 1500-1509.
-
 <br><br>
 <div style="text-align: justify; font-weight: bold;">
-Explanatory Notebook: https://github.com/jesusdp-drcmr/jesusdp-drcmr.github.io/blob/2d7ea5ba76799617ebaff620adb5a9bc207a3f45/Explainer_Notebook_FinalProject.ipynb
+Explanatory Notebook: <a href="https://github.com/jesusdp-drcmr/jesusdp-drcmr.github.io/blob/2d7ea5ba76799617ebaff620adb5a9bc207a3f45/Explainer_Notebook_FinalProject.ipynb">https://github.com/jesusdp-drcmr/jesusdp-drcmr.github.io/blob/2d7ea5ba76799617ebaff620adb5a9bc207a3f45/Explainer_Notebook_FinalProject.ipynb</a>
 </div>
